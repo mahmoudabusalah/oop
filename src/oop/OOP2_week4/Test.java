@@ -1,4 +1,4 @@
-package OOP2_week4;
+package oop.OOP2_week4;
 
 public class Test {
     public static void main(String[] args) {

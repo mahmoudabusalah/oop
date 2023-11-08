@@ -1,4 +1,4 @@
-package OOP2_week4;
+package oop.OOP2_week4;
 
 public class B extends A {
     public void m2() {
