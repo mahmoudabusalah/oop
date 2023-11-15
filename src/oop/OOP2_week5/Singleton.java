@@ -19,4 +19,5 @@ public class Singleton {
     public void hello() {
         System.out.println("Hello from singleton");
     }
+
 }
